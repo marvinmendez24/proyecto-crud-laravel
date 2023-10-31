@@ -1,0 +1,5 @@
+.w-md-50 {
+    @media(min-width: 480px) {
+        width: 50%;
+    }
+}
